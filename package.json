@@ -24,7 +24,7 @@
     "acorn": "^7.1.1",
     "acorn-globals": "^6.0.0",
     "cssom": "^0.4.4",
-    "cssstyle": "git+https://github.com/marlinhawkdigital/cssstyle.git#font-order-build",
+    "cssstyle": "git+https://github.com/marlinhawkdigital/cssstyle.git#fix-font-shorthand-build",
     "data-urls": "^2.0.0",
     "decimal.js": "^10.2.0",
     "domexception": "^2.0.1",
