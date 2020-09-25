@@ -1084,9 +1084,9 @@ cssom@~0.3.6:
   resolved "https://registry.yarnpkg.com/cssom/-/cssom-0.3.8.tgz#9f1276f5b2b463f2114d3f2c75250af8c1a36f4a"
   integrity sha512-b0tGHbfegbhPJpxpiBPU2sCkigAqtM9O121le6bbOlgyV+NyGyCmVfJ6QW9eRjz8CpNfWEOYBIMIGRYkLwsIYg==
 
-"cssstyle@git+https://github.com/marlinhawkdigital/cssstyle.git#font-order":
+"cssstyle@git+https://github.com/marlinhawkdigital/cssstyle.git#font-order-build":
   version "2.3.0"
-  resolved "git+https://github.com/marlinhawkdigital/cssstyle.git#94f4339de456b13001f7c638adaae5cf0d2d86cf"
+  resolved "git+https://github.com/marlinhawkdigital/cssstyle.git#c0048a15f84a443bad677c288fa3b9c2a99d97db"
   dependencies:
     cssom "~0.3.6"
 
