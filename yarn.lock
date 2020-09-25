@@ -1084,10 +1084,9 @@ cssom@~0.3.6:
   resolved "https://registry.yarnpkg.com/cssom/-/cssom-0.3.8.tgz#9f1276f5b2b463f2114d3f2c75250af8c1a36f4a"
   integrity sha512-b0tGHbfegbhPJpxpiBPU2sCkigAqtM9O121le6bbOlgyV+NyGyCmVfJ6QW9eRjz8CpNfWEOYBIMIGRYkLwsIYg==
 
-cssstyle@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/cssstyle/-/cssstyle-2.2.0.tgz#e4c44debccd6b7911ed617a4395e5754bba59992"
-  integrity sha512-sEb3XFPx3jNnCAMtqrXPDeSgQr+jojtCeNf8cvMNMh1cG970+lljssvQDzPq6lmmJu2Vhqood/gtEomBiHOGnA==
+"cssstyle@git+https://github.com/marlinhawkdigital/cssstyle.git#font-order":
+  version "2.3.0"
+  resolved "git+https://github.com/marlinhawkdigital/cssstyle.git#94f4339de456b13001f7c638adaae5cf0d2d86cf"
   dependencies:
     cssom "~0.3.6"
 
